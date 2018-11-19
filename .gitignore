@@ -4,3 +4,6 @@
 # Log files (if you are creating logs in debug mode, uncomment this)
 *.logs
 *.log
+
+#Ignore Prometheus runtime files.
+prometheus-2.5.0.linux-amd64/data/
