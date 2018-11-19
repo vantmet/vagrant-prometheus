@@ -7,3 +7,5 @@
 
 #Ignore Prometheus runtime files.
 prometheus-2.5.0.linux-amd64/data/
+prometheus
+promtool
